@@ -1,0 +1,17 @@
+bool guesser
+
+int playerId
+int points
+int 
+
+if(guesser) 
+{
+	//disable talker menu
+	//enable guesser menu
+}
+else 
+{
+	//disable guesser menu
+	//enable talker menu
+}
+
